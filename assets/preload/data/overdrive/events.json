@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "nevada",
+		"player1": "bf",
+		"player2": "hank",
+		"player3": null,
+		"events": [
+			[
+				78433.7349397591,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"BF"
+					]
+				]
+			],
+			[
+				78614.4578313254,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				78614.4578313254,
+				[
+					[
+						"Play Animation",
+						"block",
+						"Dad"
+					]
+				]
+			],
+			[
+				79156.6265060242,
+				[
+					[
+						"Change Character",
+						"1",
+						"hank-mad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-anti",
+		"bpm": 166,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Overdrive"
+	}
+}
