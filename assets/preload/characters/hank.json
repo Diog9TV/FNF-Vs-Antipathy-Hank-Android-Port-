@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Anti-Hank Idle"
+		},
+		{
+			"offsets": [
+				13,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ANTI-Hank M L"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Anti-Hank M D"
+		},
+		{
+			"offsets": [
+				57,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Anti-Hank M U"
+		},
+		{
+			"offsets": [
+				-80,
+				-55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Anti-Hank M R"
+		},
+		{
+			"offsets": [
+				-296,
+				31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "block",
+			"loop": false,
+			"name": "Anti-Hank B"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PIPEMAN",
+	"position": [
+		-340,
+		140
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		44,
+		40,
+		66
+	],
+	"camera_position": [
+		180,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
