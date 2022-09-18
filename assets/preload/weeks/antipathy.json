@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Battered",
+			"hank",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Overdrive",
+			"hank",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "antipathy",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "HANK!!!!",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
